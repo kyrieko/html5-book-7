@@ -10,6 +10,8 @@
 1. 화면 오른쪽 위에 있는 [Fork] 버튼을 클릭합니다.
 2. 자신의 리포지토리에 복제된 소스를 사용하면 됩니다.
 
+![](https://github.com/kyrieko/webd/raw/master/img/git-fork.png)
+
 ----------------------------------------------
 
 ### 깃허브 계정이 없거나 다운로드하려면
@@ -17,17 +19,19 @@
 2. [Download ZIP]을 클릭합니다.
 3. 다운로드한 파일의 압축을 풉니다.
 
+![](https://github.com/kyrieko/webd/raw/master/img/git-download.png)
+
 ----------------------------------------------
 
 ## 7쇄 이전의 실습 파일이 필요하다면 
 
-[5쇄/6쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-5)
+[5쇄/6쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html5-book-5)
 
-[4쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-4)
+[4쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html5-book-4)
 
-[3쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-3)
+[3쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html5-book-3)
 
-[1쇄/2쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html-book-1)
+[1쇄/2쇄 예제 파일 다운로드하기](https://github.com/kyrieko/html5-book-1)
 
 
 ※ 2016년 12월에 출간된 <Do it! HTML5+CSS3 웹 표준의 정석(구판)> 10쇄의 실습 파일은 http://cafe.naver.com/doithtml5/448
